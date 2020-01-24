@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+
+    <string name="primero">Primer numero</string>
+    <string name="segundo">Segundo numero</string>
+    <string name="Sumar">Sumar</string>
+    <string name="Restar">Restar</string>
+    <string name="Calcular">Calcular</string>
+    <string name="Resultado">Resultado: </string>
+    <string-array name="spinner3">
+        <item>Sumar</item>
+        <item>Restar</item>
+    </string-array>
+</resources>
